@@ -1,0 +1,14 @@
+com/pharmalocal/ReactNativeFlipper.java
+ com.pharmalocal.ReactNativeFlipper
+ com.pharmalocal.ReactNativeFlipper$1
+ com.pharmalocal.ReactNativeFlipper$2
+ com.pharmalocal.ReactNativeFlipper$2$1
+com/pharmalocal/MainActivity.java
+ com.pharmalocal.MainActivity
+com/pharmalocal/BuildConfig.java
+ com.pharmalocal.BuildConfig
+com/pharmalocal/MainApplication.java
+ com.pharmalocal.MainApplication
+ com.pharmalocal.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

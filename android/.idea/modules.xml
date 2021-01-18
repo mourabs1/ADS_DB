@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pharmalocal.iml" filepath="$PROJECT_DIR$/.idea/modules/Pharmalocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pharmalocal.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pharmalocal.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1169996310/Pharmalocal.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1169996310/Pharmalocal.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1837459583/Pharmalocal.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1837459583/Pharmalocal.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1530370555/Pharmalocal.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1530370555/Pharmalocal.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/84267946/Pharmalocal.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/84267946/Pharmalocal.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1017388990/Pharmalocal.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1017388990/Pharmalocal.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/204576757/Pharmalocal.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/204576757/Pharmalocal.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
